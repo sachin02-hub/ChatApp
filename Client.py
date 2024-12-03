@@ -6,7 +6,7 @@ import sys
 import errno
 
 HEADER_LENGTH = 10
-IP = "10.113.18.221"
+IP = "IP of System running the Server.py File"
 PORT = 3000
 
 class ChatApp:
